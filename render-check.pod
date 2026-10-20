@@ -1,0 +1,7 @@
+=pod
+
+=head1 SENTINEL1
+
+Text with B<bold> and a link L<http://example.com>.
+
+=cut
