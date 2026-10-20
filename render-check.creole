@@ -1,3 +1,0 @@
-SENTINEL1
-
-**bold** and //italic// and [[alink]]
